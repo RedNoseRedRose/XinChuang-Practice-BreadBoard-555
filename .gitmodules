@@ -1,6 +1,9 @@
 [submodule "01AlternatingBlinkingLights"]
 	path = 01AlternatingBlinkingLights
-	url = https://github.com/RedNoseRedRose/XinChuang-Practice-BreadBoard-555-01AlternatingBlinkingLights.git
-[submodule "02PhotosensitiveSpeaker"]
-	path = 02PhotosensitiveSpeaker
+	url = git@github.com:RedNoseRedRose/XinChuang-Practice-BreadBoard-555-01AlternatingBlinkingLights.git
+[submodule "02SymmetricalSquareWaveGenerator"]
+	path = 02SymmetricalSquareWaveGenerator
+	url = git@github.com:RedNoseRedRose/xinchuang-practice-course-BreadBoard-555-02SymmetricalSquareWaveGenerator.git
+[submodule "03PhotosensitiveSpeaker"]
+	path = 03PhotosensitiveSpeaker
 	url = git@github.com:RedNoseRedRose/XinChuang-Practice-BreadBoard-555-02PhotosensitiveSpeaker.git
